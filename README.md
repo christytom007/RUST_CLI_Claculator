@@ -1,4 +1,4 @@
 # RUST Projects
 
-=> CLI Calculator
+=> CLI Calculator <br>
 => Image Combiner
