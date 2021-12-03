@@ -1,3 +1,4 @@
-# CLI Calculator
+# RUST Projects
 
-A CLI-Calculator made in RUST
+=> CLI Calculator
+=> Image Combiner
