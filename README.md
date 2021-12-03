@@ -1,3 +1,3 @@
-# Rust Template for Replit
+# CLI Calculator
 
-A basic boilerplate for Rust.
+A CLI-Calculator made in RUST
